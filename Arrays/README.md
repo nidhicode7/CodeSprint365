@@ -10,3 +10,4 @@ This folder contains solutions to **array-based coding problems** from LeetCode,
 
 Each solution includes **optimized code** and **explanations** to help with understanding concepts. 🚀  
 
+| 1 | Two Sum | Easy | [two_sum.cpp](two_sum.cpp) |
