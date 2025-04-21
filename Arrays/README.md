@@ -13,3 +13,5 @@ Each solution includes **optimized code** and **explanations** to help with unde
 | 1 | Two Sum | Easy | [two_sum.cpp](two_sum.cpp) |
 
 | 2 | Contains Duplicate | Easy | [contains_duplicate.cpp](contains_duplicate.cpp) |
+
+| 3 | Valid Anagram | Easy | [valid_anagram.cpp](valid_anagram.cpp) |
