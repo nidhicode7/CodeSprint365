@@ -28,3 +28,4 @@ class Solution:
             n=n/2
         return n==1
        
+#so this is one of the best process 
