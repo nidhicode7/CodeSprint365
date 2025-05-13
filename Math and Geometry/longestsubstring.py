@@ -1,11 +1,9 @@
 '''
-Leetcode 3. Longest Substring Without Repeating Characters
-Medium
+Leetcode 3.
 
-Topics
-Companies
+Longest Substring Without Repeating Characters
 
-Hint
+
 Given a string s, find the length of the longest substring without duplicate characters.
 
  
