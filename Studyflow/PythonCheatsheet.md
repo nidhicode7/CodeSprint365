@@ -253,13 +253,3 @@ del student["cgpa"]
 💬 “Are strings mutable?”
 → No. Strings in Python are immutable. You must create a new one to change it.
 
----
-
-## 🌟 Now You’re Ready
-
-You can now:
-✅ Solve most Leetcode easy/mediums
-✅ Use Python for ML + projects
-✅ Explain code in interviews
-✅ Add this to your GitHub as a reference README
-
