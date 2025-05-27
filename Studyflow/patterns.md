@@ -1,0 +1,28 @@
+## 📌 DSA Patterns Cheat Sheet — Time & Space Complexity
+
+
+| Pattern Name               | Typical Problem Types                              | Time Complexity         | Space Complexity       |
+|----------------------------|-----------------------------------------------------|--------------------------|-------------------------|
+| **1. Sliding Window**      | Fixed-size subarray, string/window, max/min sum     | `O(N)`                   | `O(1)`                  |
+| **2. Two Pointers**        | Sorted arrays, pairs, palindrome, duplicates        | `O(N)`                   | `O(1)`                  |
+| **3. Fast & Slow Pointers**| Cycle detection, middle of list, palindrome LL      | `O(N)`                   | `O(1)`                  |
+| **4. Merge Intervals**     | Overlapping intervals, meeting rooms                | `O(N log N)` (due to sort)| `O(N)`                 |
+| **5. Cyclic Sort**         | Sorting 0 to N, find missing/duplicate              | `O(N)`                   | `O(1)`                  |
+| **6. In-place Reversal**   | Reverse array/LL/sublist                           | `O(N)`                   | `O(1)`                  |
+| **7. Binary Search**       | Search in sorted array                             | `O(log N)`               | `O(1)`                  |
+| **8. BFS (Level Order)**   | Shortest path in graph, tree levels                | `O(N)`                   | `O(N)`                  |
+| **9. DFS (Backtracking)**  | Maze, all paths, subsets, permutations              | `O(2^N)` or more         | `O(N)` (stack depth)    |
+| **10. Dynamic Programming**| Max profit, subsequences, knapsack                 | `O(N^2)` or `O(N*M)`     | `O(N)` to `O(N*M)`      |
+| **11. Greedy**             | Interval scheduling, coin change, jump game         | `O(N log N)` (with sort) | `O(1)` or `O(N)`        |
+| **12. Topological Sort**   | Scheduling tasks, course prerequisites             | `O(V + E)`               | `O(V + E)`              |
+| **13. Union-Find (DSU)**   | Connected components, Kruskal’s MST                | `O(α(N))` per operation  | `O(N)`                  |
+| **14. Trie**               | Auto-complete, prefix search                        | `O(N)` per word insert   | `O(N * L)`              |
+
+---
+
+
+## 🧭 Quick Tip to Use:
+
+- **Time ⏰**: How much time to run based on input size `N`  
+
+- **Space 🧠**: How much extra memory used (not counting input)
