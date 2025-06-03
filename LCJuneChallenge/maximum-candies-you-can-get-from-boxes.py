@@ -9,7 +9,6 @@ You are given an integer array initialBoxes that contains the labels of the boxe
 
 Return the maximum number of candies you can get following the rules above.
 
- 
 
 Example 1:
 
