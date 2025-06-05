@@ -14,7 +14,6 @@ For example, given the equivalency information from s1 = "abc" and s2 = "cde", "
 
 Return the lexicographically smallest equivalent string of baseStr by using the equivalency information from s1 and s2.
 
- 
 
 Example 1:
 
