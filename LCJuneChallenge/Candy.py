@@ -1,5 +1,4 @@
 '''
-
 Leetcode:135
 There are n children standing in a line. Each child is assigned a rating value given in the integer array ratings.
 
