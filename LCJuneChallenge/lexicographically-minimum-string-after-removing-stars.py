@@ -7,7 +7,6 @@ While there is a '*', do the following operation:
 Delete the leftmost '*' and the smallest non-'*' character to its left. If there are several smallest characters, you can delete any of them.
 Return the lexicographically smallest resulting string after removing all '*' characters.
 
-
 Example 1:
 
 Input: s = "aaba*"
