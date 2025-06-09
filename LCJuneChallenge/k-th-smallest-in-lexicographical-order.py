@@ -11,7 +11,7 @@ Example 2:
 
 Input: n = 1, k = 1
 Output: 1
- 
+
 
 Constraints:
 
