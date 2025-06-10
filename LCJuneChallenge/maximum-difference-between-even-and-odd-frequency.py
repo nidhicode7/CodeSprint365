@@ -28,7 +28,6 @@ Explanation:
 
 The character 'a' has an odd frequency of 3, and 'c' has an even frequency of 2.
 The maximum difference is 3 - 2 = 1.
- 
 Constraints:
 
 3 <= s.length <= 100
