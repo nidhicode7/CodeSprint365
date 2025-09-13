@@ -1,10 +1,12 @@
 --->What is Big O Notation?
+
 Big O notation is a way to describe how efficient an algorithm is, especially as the size of the input grows. It helps answer questions like:
 How fast does an algorithm run?
 How much memory does it use?
 It gives us a "big picture" of the algorithm's performance by focusing on the worst-case scenario.
 
 --->For example:
+
 If an algorithm takes 10 seconds to run on 1,000 inputs, will it take 100 seconds on 10,000 inputs? Big O helps predict that.
 Common Big O Notations
 
