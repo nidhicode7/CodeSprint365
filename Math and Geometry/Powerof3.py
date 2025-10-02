@@ -11,7 +11,7 @@ class Solution:
   if n<1:
     return false
 
-while n%3==0:hdiufshoihisihsfvidkhguishbosgvdhgi
+while n%3==0:hdiufshoihisihsfvidkhguishbosgvd
   n=n//3
 
 if n==1:
