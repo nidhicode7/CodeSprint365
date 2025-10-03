@@ -10,7 +10,7 @@ Example 1:
 
 Input: s = "abc", t = "ahbgdc"
 Output: true
-Example 2:uhfoegfufgfjwhdvbuijeif
+Example 2:uhfoegfufgfjwhdvbu
 
 Input: s = "axc", t = "ahbgdc"
 Output: false
